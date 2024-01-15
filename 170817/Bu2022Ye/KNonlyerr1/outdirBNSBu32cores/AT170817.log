@@ -1,0 +1,1624 @@
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:27 INFO    : Analysis priors:
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Analysis priors:
+06:27 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:27 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:27 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:27 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:27 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:27 INFO    : em_syserr=1.0
+06:27 INFO    : Ebv=0.0
+06:27 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:27 INFO    : Analysis likelihood noise evidence: 0.0
+06:27 INFO    : Single likelihood evaluation took 1.928e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.949e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15547273ad10>>}
+06:27 INFO    : Using temporary file /tmp/tmpxqkyilda
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15547e736e90>>}
+06:27 INFO    : Using temporary file /tmp/tmp26ywkj1j
+06:27 INFO    : Single likelihood evaluation took 1.913e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.966e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554ba73ab60>>}
+06:27 INFO    : Using temporary file /tmp/tmp_7dgt1jq
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155482736aa0>>}
+06:27 INFO    : Using temporary file /tmp/tmpsc6oh9r7
+06:27 INFO    : Single likelihood evaluation took 2.001e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554be74f7c0>>}
+06:27 INFO    : Using temporary file /tmp/tmp695fovnl
+06:27 INFO    : Single likelihood evaluation took 1.915e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.958e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15549a736dd0>>}
+06:27 INFO    : Using temporary file /tmp/tmpcg8l0wif
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15548a736b90>>}
+06:27 INFO    : Using temporary file /tmp/tmpsrh21kgd
+06:27 INFO    : Single likelihood evaluation took 1.917e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15549a754fd0>>}
+06:27 INFO    : Using temporary file /tmp/tmpvt3y04b6
+06:27 INFO    : Single likelihood evaluation took 2.026e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.942e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554be74f430>>}
+06:27 INFO    : Using temporary file /tmp/tmpqdl20svz
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554be960fd0>>}
+06:27 INFO    : Single likelihood evaluation took 1.938e-02 s
+06:27 INFO    : Using temporary file /tmp/tmp85n_c6g2
+06:27 INFO    : Single likelihood evaluation took 1.938e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15549a732dd0>>}
+06:27 INFO    : Using temporary file /tmp/tmp1heke3oa
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15547a733760>>}
+06:27 INFO    : Using temporary file /tmp/tmpjsrukt0u
+06:27 INFO    : Single likelihood evaluation took 1.952e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.930e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15547273ab30>>}
+06:27 INFO    : Using temporary file /tmp/tmpr2x2jonw
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15547e73ba00>>}
+06:27 INFO    : Using temporary file /tmp/tmp2ny25qq9
+06:27 INFO    : Single likelihood evaluation took 1.937e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.983e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554ba736b60>>}
+06:27 INFO    : Using temporary file /tmp/tmpk6gwikx5
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15548273ada0>>}
+06:27 INFO    : Using temporary file /tmp/tmpdm69e7k8
+06:27 INFO    : Single likelihood evaluation took 2.061e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.928e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.914e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15549e736b30>>}
+06:27 INFO    : Using temporary file /tmp/tmpsihnhlnn
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554ba73b610>>}
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using temporary file /tmp/tmp6wc2cnkz
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155486737790>>}
+06:27 INFO    : Using temporary file /tmp/tmpdrq6jwa4
+06:27 INFO    : Single likelihood evaluation took 1.937e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15547a732b00>>}
+06:27 INFO    : Using temporary file /tmp/tmpchuxfk_m
+06:27 INFO    : Single likelihood evaluation took 1.932e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.928e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554ba736d10>>}
+06:27 INFO    : Using temporary file /tmp/tmp9e7egfnr
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554a6755180>>}
+06:27 INFO    : Using temporary file /tmp/tmpb_tfge9i
+06:27 INFO    : Single likelihood evaluation took 1.961e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.954e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155496732a40>>}
+06:27 INFO    : Using temporary file /tmp/tmpzogq9zu0
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554ba7376d0>>}
+06:27 INFO    : Using temporary file /tmp/tmp13i9k0k_
+06:27 INFO    : Single likelihood evaluation took 1.929e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554ba73aaa0>>}
+06:27 INFO    : Using temporary file /tmp/tmp2agixcoz
+06:27 INFO    : Single likelihood evaluation took 1.918e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15549a732b30>>}
+06:27 INFO    : Using temporary file /tmp/tmpydu3wk7p
+06:27 INFO    : Single likelihood evaluation took 1.943e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15547a73aad0>>}
+06:27 INFO    : Using temporary file /tmp/tmps8w1h00r
+06:27 INFO    : Single likelihood evaluation took 1.932e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554aa73b700>>}
+06:27 INFO    : Using temporary file /tmp/tmplv0s19z4
+06:27 INFO    : Single likelihood evaluation took 1.944e-02 s
+06:27 INFO    : Single likelihood evaluation took 1.944e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554a2b3f0d0>>}
+06:27 INFO    : Using temporary file /tmp/tmpecm2rnh4
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155492733580>>}
+06:27 INFO    : Using temporary file /tmp/tmpur1cqhap
+06:27 INFO    : Single likelihood evaluation took 1.947e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554ba73b640>>}
+06:27 INFO    : Using temporary file /tmp/tmpgn43qizp
+06:27 INFO    : Single likelihood evaluation took 2.117e-02 s
+06:27 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:27 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:27 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1554ba73b790>>}
+06:27 INFO    : Using temporary file /tmp/tmpzh91z18r
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:28 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:29 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:30 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:31 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:32 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:33 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:34 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:35 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:36 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:37 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:38 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:39 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:40 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:41 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:42 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:43 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:44 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:45 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:46 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:47 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:48 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp695fovnl/
+06:49 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdrq6jwa4/
+06:50 INFO    : Sampling time: 0:22:35.806340
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmplv0s19z4/
+06:50 INFO    : Sampling time: 0:22:42.835771
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpxqkyilda/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:50 INFO    : Sampling time: 0:22:51.035645
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp_7dgt1jq/
+06:50 INFO    : Summary of results:
+nsamples: 11986
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Sampling time: 0:22:53.098679
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsc6oh9r7/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp26ywkj1j/
+06:50 INFO    : Sampling time: 0:22:56.220358
+06:50 INFO    : Sampling time: 0:22:56.448093
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:50 INFO    : Summary of results:
+nsamples: 11986
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpvt3y04b6/
+06:50 INFO    : Summary of results:
+nsamples: 11986
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Sampling time: 0:22:58.563483
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpjsrukt0u/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp1heke3oa/
+06:50 INFO    : Sampling time: 0:23:02.814771
+06:50 INFO    : Sampling time: 0:23:03.035229
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp6wc2cnkz/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpcg8l0wif/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:50 INFO    : Sampling time: 0:23:06.483621
+06:50 INFO    : Sampling time: 0:23:06.929558
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsrh21kgd/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmps8w1h00r/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp9e7egfnr/
+06:50 INFO    : Sampling time: 0:23:09.961762
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpk6gwikx5/
+06:50 INFO    : Sampling time: 0:23:10.030302
+06:50 INFO    : Sampling time: 0:23:10.393185
+06:50 INFO    : Sampling time: 0:23:10.712399
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpchuxfk_m/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpecm2rnh4/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpgn43qizp/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp13i9k0k_/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpb_tfge9i/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpydu3wk7p/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp85n_c6g2/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2agixcoz/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpur1cqhap/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmp2ny25qq9/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpsihnhlnn/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzogq9zu0/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpzh91z18r/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpdm69e7k8/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpr2x2jonw/
+06:50 INFO    : Overwriting outdirBNSBu32cores/pm_AT170817/ with /tmp/tmpqdl20svz/
+06:58 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:58 INFO    : Analysis priors:
+06:58 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:58 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:58 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:58 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:58 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:58 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:58 INFO    : luminosity_distance=Uniform(minimum=0.0, maximum=200.0, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:58 INFO    : timeshift=Uniform(minimum=-2.0, maximum=1.0, name='timeshift', latex_label='$t_0$', unit=None, boundary=None)
+06:58 INFO    : em_syserr=1.0
+06:58 INFO    : Ebv=0.0
+06:58 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:58 INFO    : Analysis likelihood noise evidence: 0.0
+06:58 INFO    : Single likelihood evaluation took 1.575e-02 s
+06:58 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:58 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:58 WARNING : Using cached result
+06:58 INFO    : Summary of results:
+nsamples: 12099
+ln_noise_evidence:  0.000
+ln_evidence: -116.181 +/-  0.066
+ln_bayes_factor: -116.181 +/-  0.066
+
+06:58 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNonlyerr1/outdirBNSBu32cores/AT170817_posterior_samples.dat
