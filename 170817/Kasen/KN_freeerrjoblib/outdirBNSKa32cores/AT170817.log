@@ -1,0 +1,690 @@
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : Analysis priors:
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Analysis priors:
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis priors:
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : Analysis priors:
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Analysis priors:
+09:47 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+09:47 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+09:47 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+09:47 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+09:47 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+09:47 INFO    : timeshift=0.0
+09:47 INFO    : Ebv=0.0
+09:47 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+09:47 INFO    : Analysis likelihood noise evidence: 0.0
+09:47 INFO    : Single likelihood evaluation took 3.455e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.457e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.461e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.469e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.456e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.461e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.462e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.487e-02 s
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe23b0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Single likelihood evaluation took 3.476e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.476e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.448e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.455e-02 s
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Single likelihood evaluation took 3.482e-02 s
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Single likelihood evaluation took 3.465e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.492e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.503e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.486e-02 s
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe2470>>}
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe64d0>>}
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe2b60>>}
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fdea40>>}
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe6680>>}
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe2a40>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Single likelihood evaluation took 3.491e-02 s
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fda7d0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Single likelihood evaluation took 3.486e-02 s
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe2aa0>>}
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fde7a0>>}
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fdfc70>>}
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fd9900>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe24a0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Single likelihood evaluation took 3.492e-02 s
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fde9e0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Single likelihood evaluation took 3.488e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.499e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.499e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.479e-02 s
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe2380>>}
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fdab00>>}
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fda8c0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Single likelihood evaluation took 3.485e-02 s
+09:47 INFO    : Single likelihood evaluation took 3.506e-02 s
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Single likelihood evaluation took 3.509e-02 s
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fdead0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Single likelihood evaluation took 3.523e-02 s
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe66b0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe27d0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Single likelihood evaluation took 3.488e-02 s
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fdac20>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe6a10>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe6a40>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe29e0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fda920>>}
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fdbbb0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Single likelihood evaluation took 3.529e-02 s
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe6a10>>}
+09:47 INFO    : Single likelihood evaluation took 3.486e-02 s
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fdead0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fdece0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Single likelihood evaluation took 3.543e-02 s
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe3c10>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe64a0>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:47 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+09:47 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+09:47 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 5, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155500fe3c70>>}
+09:47 INFO    : Temporary directory incompatible with MPI, will run in original directory
+09:47 INFO    : Using output file outdirBNSKa32cores/pm_AT170817/
+09:52 INFO    : Sampling time: 0:04:20.643069
+09:52 INFO    : Sampling time: 0:04:20.636526
+09:52 INFO    : Sampling time: 0:04:20.700665
+09:52 INFO    : Sampling time: 0:04:20.702229
+09:52 INFO    : Sampling time: 0:04:20.577789
+09:52 INFO    : Sampling time: 0:04:20.705527
+09:52 INFO    : Sampling time: 0:04:20.705392
+09:52 INFO    : Sampling time: 0:04:20.706218
+09:52 INFO    : Sampling time: 0:04:20.711601
+09:52 INFO    : Sampling time: 0:04:20.655099
+09:52 INFO    : Sampling time: 0:04:20.653224
+09:52 INFO    : Sampling time: 0:04:20.655771
+09:52 INFO    : Sampling time: 0:04:20.656382
+09:52 INFO    : Sampling time: 0:04:20.715112
+09:52 INFO    : Sampling time: 0:04:20.713792
+09:52 INFO    : Sampling time: 0:04:20.708829
+09:52 INFO    : Sampling time: 0:04:20.659097
+09:52 INFO    : Sampling time: 0:04:20.650524
+09:52 INFO    : Sampling time: 0:04:20.709445
+09:52 INFO    : Sampling time: 0:04:20.659449
+09:52 INFO    : Sampling time: 0:04:20.715535
+09:52 INFO    : Sampling time: 0:04:20.659751
+09:52 INFO    : Sampling time: 0:04:20.716058
+09:52 INFO    : Sampling time: 0:04:20.619653
+09:52 INFO    : Sampling time: 0:04:20.662601
+09:52 INFO    : Sampling time: 0:04:20.631936
+09:52 INFO    : Sampling time: 0:04:20.659800
+09:52 INFO    : Sampling time: 0:04:20.618259
+09:52 INFO    : Sampling time: 0:04:20.650052
+09:52 INFO    : Sampling time: 0:04:20.659426
+09:52 INFO    : Sampling time: 0:04:20.647218
+09:52 INFO    : Sampling time: 0:04:20.661252
+09:52 ERROR   : 
+
+Saving the data has failed with the following message:
+[Errno 116] Stale file handle
+Data has been dumped to outdirBNSKa32cores/AT170817_result.pkl.
+
+
+09:52 ERROR   : 
+
+Saving the data has failed with the following message:
+[Errno 116] Stale file handle
+Data has been dumped to outdirBNSKa32cores/AT170817_result.pkl.
+
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+09:52 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+07:50 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+07:50 INFO    : Analysis priors:
+07:50 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+07:50 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+07:50 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+07:50 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+07:50 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+07:50 INFO    : timeshift=0.0
+07:50 INFO    : Ebv=0.0
+07:50 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+07:50 INFO    : Analysis likelihood noise evidence: 0.0
+07:50 INFO    : Single likelihood evaluation took 2.710e-02 s
+07:50 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+07:50 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+07:50 WARNING : Using cached result
+07:50 INFO    : Summary of results:
+nsamples: 10354
+ln_noise_evidence:  0.000
+ln_evidence: -190.922 +/-  0.083
+ln_bayes_factor: -190.922 +/-  0.083
+
+07:50 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Kasen/KN_freeerrjoblib/outdirBNSKa32cores/AT170817_posterior_samples.dat
