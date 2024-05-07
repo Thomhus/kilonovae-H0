@@ -707,3 +707,28 @@ ln_noise_evidence:  0.000
 ln_evidence: -28.894 +/-  0.097
 ln_bayes_factor: -28.894 +/-  0.097
 
+06:17 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSBu32cores'
+06:18 INFO    : Analysis priors:
+06:18 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:18 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:18 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{edyn}}$', unit=None, boundary=None)
+06:18 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:18 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:18 INFO    : inclination_EM=Sine(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+06:18 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:18 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+06:18 INFO    : timeshift=0.0
+06:18 INFO    : Ebv=0.0
+06:18 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:18 INFO    : Analysis likelihood noise evidence: 0.0
+06:18 INFO    : Single likelihood evaluation took 9.066e-03 s
+06:18 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:18 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:18 WARNING : Using cached result
+06:18 INFO    : Summary of results:
+nsamples: 14532
+ln_noise_evidence:  0.000
+ln_evidence: -28.894 +/-  0.097
+ln_bayes_factor: -28.894 +/-  0.097
+
+06:18 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Bu2022Ye/KNfreeerr_tightangle_ri/outdirBNSBu32cores/AT170817_posterior_samples.dat

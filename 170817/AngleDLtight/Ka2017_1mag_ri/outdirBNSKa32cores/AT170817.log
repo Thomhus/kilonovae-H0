@@ -641,3 +641,25 @@ ln_noise_evidence:  0.000
 ln_evidence: -50.313 +/-  0.063
 ln_bayes_factor: -50.313 +/-  0.063
 
+06:11 INFO    : Running for label 'AT170817', output will be saved to 'outdirBNSKa32cores'
+06:11 INFO    : Analysis priors:
+06:11 INFO    : log10_Xlan=Uniform(minimum=-9, maximum=-1, name='log10_Xlan', latex_label='log10_Xlan', unit=None, boundary='reflective')
+06:11 INFO    : log10_mej=Uniform(minimum=-5, maximum=-0.5, name='log10_mej', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+06:11 INFO    : log10_vej=Uniform(minimum=-1.8, maximum=-0.01, name='log10_vej', latex_label='$\\log_{10}v$', unit=None, boundary=None)
+06:11 INFO    : luminosity_distance=LogUniform(minimum=38, maximum=48, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+06:11 INFO    : timeshift=0.0
+06:11 INFO    : em_syserr=1.0
+06:11 INFO    : Ebv=0.0
+06:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+06:11 INFO    : Analysis likelihood noise evidence: 0.0
+06:11 INFO    : Single likelihood evaluation took 1.080e-02 s
+06:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+06:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+06:11 WARNING : Using cached result
+06:11 INFO    : Summary of results:
+nsamples: 5751
+ln_noise_evidence:  0.000
+ln_evidence: -50.313 +/-  0.063
+ln_bayes_factor: -50.313 +/-  0.063
+
+06:11 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/AngleDLtight/Ka2017_1mag_ri/outdirBNSKa32cores/AT170817_posterior_samples.dat
