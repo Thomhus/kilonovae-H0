@@ -1,0 +1,31 @@
+{
+  "injections": {
+    "__dataframe__": true,
+    "content": {
+      "simulation_id": [
+        0
+      ],
+      "KNphi": [
+        42.0
+      ],
+      "log10_mej_dyn": [
+        -2.2
+      ],
+      "log10_mej_wind": [
+        -1.0
+      ],
+      "KNtheta": [
+        45.0
+      ],
+      "luminosity_distance": [
+        20.0
+      ],
+      "timeshift": [
+        0.0
+      ],
+      "geocent_time": [
+        0.09572261346443181
+      ]
+    }
+  }
+}
