@@ -17,14 +17,16 @@ params={'KNphi':31.033359307564652,'log10_mej_dyn':-2.236983615436653,'log10_mej
 model = SVDLightCurveModel('Bu2019lm', sample_times, svd_path='/home/thussenot/nmma/svdmodels/',
                            interpolation_type='sklearn_gp',filters=filts)
 lbol,mAB = model.generate_lightcurve(sample_times,params)
-mAB += 5*np.log10(params['luminosity_distance']*(10**6 /10))
 ps1 = Table(mAB)
-ps1.write('/home/thussenot/kilonovae-H0/170817ps1.dat',format='ascii.csv')
+for f in ps1.keys():
+    ps1[f] += 5*np.log10(params['luminosity_distance']*(10**6 /10))
+ps1.write('/home/thussenot/kilonovae-H0/170817ps1.dat',format='ascii.csv',overwrite=True)
 
 filts = ['2massj','2massh','2massks']
 model = SVDLightCurveModel('Bu2019lm', sample_times, svd_path='/home/thussenot/nmma/svdmodels/',
                            interpolation_type='sklearn_gp',filters=filts)
 lbol,mAB = model.generate_lightcurve(sample_times,params)
-mAB += 5*np.log10(params['luminosity_distance']*(10**6 /10))
 mass = Table(mAB)
-mass.write('/home/thussenot/kilonovae-H0/170817mass.dat',format='ascii.csv')
+for f in mass.keys():
+    mass[f] += 5*np.log10(params['luminosity_distance']*(10**6 /10))
+mass.write('/home/thussenot/kilonovae-H0/170817mass.dat',format='ascii.csv',overwrite=True)
