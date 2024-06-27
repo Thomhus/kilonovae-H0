@@ -637,3 +637,26 @@ ln_noise_evidence:  0.000
 ln_evidence: -96.908 +/-  0.054
 ln_bayes_factor: -96.908 +/-  0.054
 
+08:24 INFO    : Running for label 'Simu2019lm', output will be saved to 'outdirBNSBu32cores'
+08:24 INFO    : Analysis priors:
+08:24 INFO    : KNphi=Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+08:24 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.0, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+08:24 INFO    : log10_mej_wind=Uniform(minimum=-3.0, maximum=-0.5, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+08:24 INFO    : inclination_EM=Sine(minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+08:24 INFO    : luminosity_distance=LogUniform(minimum=1, maximum=500, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+08:24 INFO    : timeshift=0.0
+08:24 INFO    : em_syserr=1.0
+08:24 INFO    : Ebv=0.0
+08:24 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+08:24 INFO    : Analysis likelihood noise evidence: 0.0
+08:24 INFO    : Single likelihood evaluation took 6.564e-02 s
+08:24 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+08:24 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+08:24 WARNING : Using cached result
+08:24 INFO    : Summary of results:
+nsamples: 11286
+ln_noise_evidence:  0.000
+ln_evidence: -96.908 +/-  0.054
+ln_bayes_factor: -96.908 +/-  0.054
+
+08:24 INFO    : Writing samples file to /home/thussenot/kilonovae-H0/lcsimu/1perday17/grizyJHK/outdirBNSBu32cores/Simu2019lm_posterior_samples.dat
