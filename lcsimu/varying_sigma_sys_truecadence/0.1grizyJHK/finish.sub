@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=BNSBu.job
+#SBATCH --job-name=BNSBu01.job
 #SBATCH --output=BNSBu%A_%a.out
 #SBATCH --error=BNSBu%A_%a.err
 #SBATCH -p shared
