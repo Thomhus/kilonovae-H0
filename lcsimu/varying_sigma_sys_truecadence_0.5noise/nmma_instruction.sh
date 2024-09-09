@@ -1,0 +1,1 @@
+lightcurve-analysis --model Bu2019lm --svd-path /home/thussenot/nmma/svdmodels --outdir outdirBNSBu32cores --label Simu2019lm --prior ./Bu2019lm_AT170817.prior --tmin 0.01 --tmax 26 --dt 0.01  --nlive 2048 --Ebv-max 0 --trigger-time 60000 --data ../170817bestsim17cadence05magnoise.dat --plot --xlim 0,15 --ylim 24,16 --bestfit
