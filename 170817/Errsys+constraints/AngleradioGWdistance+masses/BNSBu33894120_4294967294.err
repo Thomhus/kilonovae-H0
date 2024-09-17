@@ -1,0 +1,25 @@
+05:50 bilby INFO    : Running for label 'Constraints170817', output will be saved to 'outdirBNSBu32cores'
+05:50 bilby INFO    : Analysis priors:
+05:50 bilby INFO    : KNphi=Uniform(minimum=15.0, maximum=75.0, name='KNphi', latex_label='$\\Phi$', unit=None, boundary=None)
+05:50 bilby INFO    : log10_mej_dyn=Uniform(minimum=-2.6, maximum=-1.5, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+05:50 bilby INFO    : log10_mej_wind=Uniform(minimum=-1.9, maximum=-1.2, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+05:50 bilby INFO    : inclination_EM=Sine(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+05:50 bilby INFO    : luminosity_distance=Gaussian(mu=43.4, sigma=2, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+05:50 bilby INFO    : em_syserr=LogUniform(minimum=0.1, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+05:50 bilby INFO    : timeshift=0.0
+05:50 bilby INFO    : Ebv=0.0
+05:50 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+05:50 bilby INFO    : Analysis likelihood noise evidence: 0.0
+05:51 bilby INFO    : Single likelihood evaluation took 1.035e-01 s
+05:51 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+05:51 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+05:51 bilby WARNING : Using cached result
+05:51 bilby INFO    : Summary of results:
+nsamples: 11135
+ln_noise_evidence:  0.000
+ln_evidence: -138.880 +/-  0.064
+ln_bayes_factor: -138.880 +/-  0.064
+
+05:51 bilby INFO    : Writing samples file to /home/thussenot/kilonovae-H0/170817/Errsys+constraints/AngleradioGWdistance+masses/outdirBNSBu32cores/Constraints170817_posterior_samples.dat
+/home/thussenot/.conda/envs/multinest/lib/python3.10/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)

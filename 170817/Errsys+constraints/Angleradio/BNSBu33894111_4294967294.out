@@ -1,0 +1,18 @@
+Install afterglowpy if you want to simulate afterglows.
+Install wrapt_timeout_decorator if you want timeout simulations.
+Creating light curve model for inference
+Running with filters ['ps1__g', 'ps1__r', 'ps1__i', 'ps1__z', 'ps1__y', '2massj', '2massh', '2massks', 'sdssu']
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter ps1__i
+Loaded filter ps1__z
+Loaded filter ps1__y
+Loaded filter 2massj
+Loaded filter 2massh
+Loaded filter 2massks
+Loaded filter sdssu
+Running with the following additional sampler_kwargs:
+{}
+Best fit parameters: {'KNphi': 49.86518039944238, 'log10_mej_dyn': -2.2156871131679257, 'log10_mej_wind': -1.0715554526976714, 'inclination_EM': 0.4051880597548531, 'luminosity_distance': 51.87530379806397, 'em_syserr': 0.5813518750778015, 'timeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -127.2185646767465, 'log_prior': -13.658382982128584}
+Best fit index: 11232
+Saved bestfit parameters and magnitudes to outdirBNSBu32cores/Constraints170817_bestfit_params.json
