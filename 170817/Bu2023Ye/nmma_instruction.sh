@@ -1,0 +1,1 @@
+lightcurve-analysis --model Bu2023Ye --svd-path /home/thussenot/nmma/svdmodels --outdir outdirBNSBu32cores --label Constraints170817 --prior ./Bu2019lm_AT170817.prior --tmin 0.01 --tmax 26 --dt 0.01  --nlive 2048 --Ebv-max 0 --trigger-time 57982.52851851852 --data ../../AT2017gfoMWcorrected.dat --plot --xlim 0,15 --ylim 24,16 --bestfit --interpolation-type tensorflow
