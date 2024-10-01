@@ -1,0 +1,1 @@
+lightcurve-analysis --model Ka2017 --svd-path /home/thussenot/nmma/svdmodels --outdir outdirBNSKa32cores --label 170817in14days --prior ./Ka2017_AT170817.prior --tmin 0.01 --tmax 14 --dt 0.01  --nlive 2048 --Ebv-max 0 --trigger-time 57982.52851851852 --data ../../AT2017gfo.dat --plot --xlim 0,14 --ylim 24,16 --bestfit
