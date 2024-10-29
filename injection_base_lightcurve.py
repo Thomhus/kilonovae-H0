@@ -14,10 +14,23 @@ sample_times = np.arange(0.1,15,0.1)
 filts = ['ps1__g','ps1__r','ps1__i','ps1__z','ps1__y']
 #params={'KNphi':60,'log10_mej_dyn':np.log(0.010),'log10_mej_wind':np.log(0.05),
 #        'KNtheta':np.arccos(0.8)*180/np.pi,'luminosity_distance':40}
-params={'KNphi':53,'log10_mej_dyn':np.log(0.007),'log10_mej_wind':np.log(0.04),
-        'KNtheta':np.arccos(0.75)*180/np.pi,'luminosity_distance':40}
+#params={'KNphi':53,'log10_mej_dyn':np.log(0.007),'log10_mej_wind':np.log(0.04),
+#        'KNtheta':np.arccos(0.75)*180/np.pi,'luminosity_distance':40}
+params={
+        'KNphi':28.00338113,'log10_mej_dyn':-2.1685562,
+        'log10_mej_wind':-1.62913266,'KNtheta':np.arccos(0.93810532)*180/np.pi,
+        # 'KNphi':28.84181664,'log10_mej_dyn':-1.53114099,
+        # 'log10_mej_wind':-0.78967631,'KNtheta':np.arccos(0.99297351)*180/np.pi,
+        # 'KNphi':21.14433759,'log10_mej_dyn':-1.89340053,
+        # 'log10_mej_wind':-0.77958405,'KNtheta':np.arccos(0.50616015)*180/np.pi,
+        # 'KNphi':49.46252534,'log10_mej_dyn':-2.45002188,
+        # 'log10_mej_wind':-1.77082526,'KNtheta':np.arccos(0.5779006)*180/np.pi,
+        # 'KNphi':59.30197033,'log10_mej_dyn':-2.72305989,
+        # 'log10_mej_wind':-1.8503249,'KNtheta':np.arccos(0.10882965)*180/np.pi,
+        'luminosity_distance':40}
+        
 
-name = 'InjectionBaseLightcurve2'
+name = 'InjectionBaseLightcurve3'
 model = SVDLightCurveModel('Bu2019lm', sample_times, svd_path='/home/thussenot/nmma/svdmodels/',
                            interpolation_type='sklearn_gp',filters=filts)
 lbol,mAB = model.generate_lightcurve(sample_times,params)
