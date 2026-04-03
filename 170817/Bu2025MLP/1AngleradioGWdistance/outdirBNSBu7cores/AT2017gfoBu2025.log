@@ -1,0 +1,212 @@
+01:39 INFO    : Running for label 'AT2017gfoBu2025', output will be saved to 'outdirBNSBu7cores'
+01:39 INFO    : Running for label 'AT2017gfoBu2025', output will be saved to 'outdirBNSBu7cores'
+01:39 INFO    : Running for label 'AT2017gfoBu2025', output will be saved to 'outdirBNSBu7cores'
+01:39 INFO    : Running for label 'AT2017gfoBu2025', output will be saved to 'outdirBNSBu7cores'
+01:39 INFO    : Running for label 'AT2017gfoBu2025', output will be saved to 'outdirBNSBu7cores'
+01:39 INFO    : Running for label 'AT2017gfoBu2025', output will be saved to 'outdirBNSBu7cores'
+01:39 INFO    : Running for label 'AT2017gfoBu2025', output will be saved to 'outdirBNSBu7cores'
+01:39 INFO    : Analysis priors:
+01:39 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.3010299956639813, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_dyn=Uniform(minimum=0.12, maximum=0.28, name='v_ej_dyn', latex_label='$v^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_dyn=Uniform(minimum=0.15, maximum=0.35, name='Ye_dyn', latex_label='$Y^{\\rm{dyn}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.8860566476931633, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_wind=Uniform(minimum=0.05, maximum=0.15, name='v_ej_wind', latex_label='$v^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_wind=Uniform(minimum=0.2, maximum=0.4, name='Ye_wind', latex_label='$Y^{\\rm{wind}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : inclination_EM=Uniform(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:39 INFO    : luminosity_distance=Gaussian(mu=43.4, sigma=2, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+01:39 INFO    : timeshift=0.0
+01:39 INFO    : em_syserr=1.0
+01:39 INFO    : redshift=0.009727
+01:39 INFO    : Ebv=0.0
+01:39 INFO    : Analysis likelihood class: <class 'nmma.em.em_likelihood.EMTransientLikelihood'>
+01:39 INFO    : Analysis likelihood noise evidence: 0.0
+01:39 INFO    : Single likelihood evaluation took 6.857e-03 s
+01:39 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:39 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:39 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x75ca872ffad0>>}
+01:39 INFO    : Global meta data was removed from the result object for compatibility. Use the `BILBY_INCLUDE_GLOBAL_METADATA` environment variable to include it. This behaviour will be removed in a future release. For more details see: https://bilby-dev.github.io/bilby/faq.html#global-meta-data
+01:39 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:39 INFO    : Using output file outdirBNSBu7cores/pm_AT2017gfoBu2025/
+01:39 INFO    : Analysis priors:
+01:39 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.3010299956639813, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_dyn=Uniform(minimum=0.12, maximum=0.28, name='v_ej_dyn', latex_label='$v^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_dyn=Uniform(minimum=0.15, maximum=0.35, name='Ye_dyn', latex_label='$Y^{\\rm{dyn}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.8860566476931633, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_wind=Uniform(minimum=0.05, maximum=0.15, name='v_ej_wind', latex_label='$v^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_wind=Uniform(minimum=0.2, maximum=0.4, name='Ye_wind', latex_label='$Y^{\\rm{wind}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : inclination_EM=Uniform(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:39 INFO    : luminosity_distance=Gaussian(mu=43.4, sigma=2, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+01:39 INFO    : timeshift=0.0
+01:39 INFO    : em_syserr=1.0
+01:39 INFO    : redshift=0.009727
+01:39 INFO    : Ebv=0.0
+01:39 INFO    : Analysis likelihood class: <class 'nmma.em.em_likelihood.EMTransientLikelihood'>
+01:39 INFO    : Analysis likelihood noise evidence: 0.0
+01:39 INFO    : Analysis priors:
+01:39 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.3010299956639813, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_dyn=Uniform(minimum=0.12, maximum=0.28, name='v_ej_dyn', latex_label='$v^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_dyn=Uniform(minimum=0.15, maximum=0.35, name='Ye_dyn', latex_label='$Y^{\\rm{dyn}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.8860566476931633, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_wind=Uniform(minimum=0.05, maximum=0.15, name='v_ej_wind', latex_label='$v^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_wind=Uniform(minimum=0.2, maximum=0.4, name='Ye_wind', latex_label='$Y^{\\rm{wind}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : inclination_EM=Uniform(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:39 INFO    : luminosity_distance=Gaussian(mu=43.4, sigma=2, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+01:39 INFO    : timeshift=0.0
+01:39 INFO    : em_syserr=1.0
+01:39 INFO    : redshift=0.009727
+01:39 INFO    : Ebv=0.0
+01:39 INFO    : Analysis likelihood class: <class 'nmma.em.em_likelihood.EMTransientLikelihood'>
+01:39 INFO    : Analysis likelihood noise evidence: 0.0
+01:39 INFO    : Analysis priors:
+01:39 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.3010299956639813, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_dyn=Uniform(minimum=0.12, maximum=0.28, name='v_ej_dyn', latex_label='$v^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_dyn=Uniform(minimum=0.15, maximum=0.35, name='Ye_dyn', latex_label='$Y^{\\rm{dyn}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.8860566476931633, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_wind=Uniform(minimum=0.05, maximum=0.15, name='v_ej_wind', latex_label='$v^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_wind=Uniform(minimum=0.2, maximum=0.4, name='Ye_wind', latex_label='$Y^{\\rm{wind}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : inclination_EM=Uniform(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:39 INFO    : luminosity_distance=Gaussian(mu=43.4, sigma=2, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+01:39 INFO    : timeshift=0.0
+01:39 INFO    : em_syserr=1.0
+01:39 INFO    : redshift=0.009727
+01:39 INFO    : Ebv=0.0
+01:39 INFO    : Analysis likelihood class: <class 'nmma.em.em_likelihood.EMTransientLikelihood'>
+01:39 INFO    : Analysis likelihood noise evidence: 0.0
+01:39 INFO    : Analysis priors:
+01:39 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.3010299956639813, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_dyn=Uniform(minimum=0.12, maximum=0.28, name='v_ej_dyn', latex_label='$v^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_dyn=Uniform(minimum=0.15, maximum=0.35, name='Ye_dyn', latex_label='$Y^{\\rm{dyn}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.8860566476931633, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_wind=Uniform(minimum=0.05, maximum=0.15, name='v_ej_wind', latex_label='$v^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_wind=Uniform(minimum=0.2, maximum=0.4, name='Ye_wind', latex_label='$Y^{\\rm{wind}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : inclination_EM=Uniform(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:39 INFO    : luminosity_distance=Gaussian(mu=43.4, sigma=2, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+01:39 INFO    : timeshift=0.0
+01:39 INFO    : em_syserr=1.0
+01:39 INFO    : redshift=0.009727
+01:39 INFO    : Ebv=0.0
+01:39 INFO    : Analysis likelihood class: <class 'nmma.em.em_likelihood.EMTransientLikelihood'>
+01:39 INFO    : Analysis likelihood noise evidence: 0.0
+01:39 INFO    : Analysis priors:
+01:39 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.3010299956639813, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_dyn=Uniform(minimum=0.12, maximum=0.28, name='v_ej_dyn', latex_label='$v^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_dyn=Uniform(minimum=0.15, maximum=0.35, name='Ye_dyn', latex_label='$Y^{\\rm{dyn}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.8860566476931633, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_wind=Uniform(minimum=0.05, maximum=0.15, name='v_ej_wind', latex_label='$v^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_wind=Uniform(minimum=0.2, maximum=0.4, name='Ye_wind', latex_label='$Y^{\\rm{wind}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : inclination_EM=Uniform(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:39 INFO    : luminosity_distance=Gaussian(mu=43.4, sigma=2, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+01:39 INFO    : timeshift=0.0
+01:39 INFO    : em_syserr=1.0
+01:39 INFO    : redshift=0.009727
+01:39 INFO    : Ebv=0.0
+01:39 INFO    : Analysis likelihood class: <class 'nmma.em.em_likelihood.EMTransientLikelihood'>
+01:39 INFO    : Analysis likelihood noise evidence: 0.0
+01:39 INFO    : Analysis priors:
+01:39 INFO    : log10_mej_dyn=Uniform(minimum=-3.0, maximum=-1.3010299956639813, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_dyn=Uniform(minimum=0.12, maximum=0.28, name='v_ej_dyn', latex_label='$v^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_dyn=Uniform(minimum=0.15, maximum=0.35, name='Ye_dyn', latex_label='$Y^{\\rm{dyn}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : log10_mej_wind=Uniform(minimum=-2.0, maximum=-0.8860566476931633, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary='reflective')
+01:39 INFO    : v_ej_wind=Uniform(minimum=0.05, maximum=0.15, name='v_ej_wind', latex_label='$v^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+01:39 INFO    : Ye_wind=Uniform(minimum=0.2, maximum=0.4, name='Ye_wind', latex_label='$Y^{\\rm{wind}}_{e}$', unit=None, boundary=None)
+01:39 INFO    : inclination_EM=Uniform(minimum=0.33, maximum=0.42, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:39 INFO    : luminosity_distance=Gaussian(mu=43.4, sigma=2, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+01:39 INFO    : timeshift=0.0
+01:39 INFO    : em_syserr=1.0
+01:39 INFO    : redshift=0.009727
+01:39 INFO    : Ebv=0.0
+01:39 INFO    : Analysis likelihood class: <class 'nmma.em.em_likelihood.EMTransientLikelihood'>
+01:39 INFO    : Analysis likelihood noise evidence: 0.0
+01:39 INFO    : Single likelihood evaluation took 1.534e-02 s
+01:39 INFO    : Single likelihood evaluation took 1.212e-02 s
+01:39 INFO    : Single likelihood evaluation took 9.660e-03 s
+01:39 INFO    : Single likelihood evaluation took 9.551e-03 s
+01:39 INFO    : Single likelihood evaluation took 8.526e-03 s
+01:39 INFO    : Single likelihood evaluation took 9.484e-03 s
+01:39 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:39 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:39 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x706e706e6570>>}
+01:39 INFO    : Global meta data was removed from the result object for compatibility. Use the `BILBY_INCLUDE_GLOBAL_METADATA` environment variable to include it. This behaviour will be removed in a future release. For more details see: https://bilby-dev.github.io/bilby/faq.html#global-meta-data
+01:39 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:39 INFO    : Using output file outdirBNSBu7cores/pm_AT2017gfoBu2025/
+01:39 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:39 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:39 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x75685ba5d220>>}
+01:39 INFO    : Global meta data was removed from the result object for compatibility. Use the `BILBY_INCLUDE_GLOBAL_METADATA` environment variable to include it. This behaviour will be removed in a future release. For more details see: https://bilby-dev.github.io/bilby/faq.html#global-meta-data
+01:39 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:39 INFO    : Using output file outdirBNSBu7cores/pm_AT2017gfoBu2025/
+01:39 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:39 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:39 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x786cd41e9160>>}
+01:39 INFO    : Global meta data was removed from the result object for compatibility. Use the `BILBY_INCLUDE_GLOBAL_METADATA` environment variable to include it. This behaviour will be removed in a future release. For more details see: https://bilby-dev.github.io/bilby/faq.html#global-meta-data
+01:39 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:39 INFO    : Using output file outdirBNSBu7cores/pm_AT2017gfoBu2025/
+01:39 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:39 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:39 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x737ef8263470>>}
+01:39 INFO    : Global meta data was removed from the result object for compatibility. Use the `BILBY_INCLUDE_GLOBAL_METADATA` environment variable to include it. This behaviour will be removed in a future release. For more details see: https://bilby-dev.github.io/bilby/faq.html#global-meta-data
+01:39 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:39 INFO    : Using output file outdirBNSBu7cores/pm_AT2017gfoBu2025/
+01:39 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:39 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:39 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x70ac5c3b8050>>}
+01:39 INFO    : Global meta data was removed from the result object for compatibility. Use the `BILBY_INCLUDE_GLOBAL_METADATA` environment variable to include it. This behaviour will be removed in a future release. For more details see: https://bilby-dev.github.io/bilby/faq.html#global-meta-data
+01:39 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:39 INFO    : Using output file outdirBNSBu7cores/pm_AT2017gfoBu2025/
+01:39 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:39 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:39 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 8, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7b7e90289a90>>}
+01:39 INFO    : Global meta data was removed from the result object for compatibility. Use the `BILBY_INCLUDE_GLOBAL_METADATA` environment variable to include it. This behaviour will be removed in a future release. For more details see: https://bilby-dev.github.io/bilby/faq.html#global-meta-data
+01:39 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:39 INFO    : Using output file outdirBNSBu7cores/pm_AT2017gfoBu2025/
+01:51 INFO    : Sampling time: 0:11:21.805252
+01:51 INFO    : Summary of results:
+nsamples: 20859
+ln_noise_evidence:  0.000
+ln_evidence: -180.218 +/-  0.087
+ln_bayes_factor: -180.218 +/-  0.087
+
+01:51 INFO    : No extension given, defaulting to JSON.
+01:51 INFO    : Sampling time: 0:11:29.802356
+01:51 INFO    : Sampling time: 0:11:23.781996
+01:51 INFO    : Summary of results:
+nsamples: 20859
+ln_noise_evidence:  0.000
+ln_evidence: -180.218 +/-  0.087
+ln_bayes_factor: -180.218 +/-  0.087
+
+01:51 INFO    : Sampling time: 0:11:23.792980
+01:51 INFO    : Summary of results:
+nsamples: 20859
+ln_noise_evidence:  0.000
+ln_evidence: -180.218 +/-  0.087
+ln_bayes_factor: -180.218 +/-  0.087
+
+01:51 INFO    : Sampling time: 0:11:22.464996
+01:51 INFO    : Sampling time: 0:11:23.966565
+01:51 INFO    : Summary of results:
+nsamples: 20859
+ln_noise_evidence:  0.000
+ln_evidence: -180.218 +/-  0.087
+ln_bayes_factor: -180.218 +/-  0.087
+
+01:51 INFO    : Summary of results:
+nsamples: 20859
+ln_noise_evidence:  0.000
+ln_evidence: -180.218 +/-  0.087
+ln_bayes_factor: -180.218 +/-  0.087
+
+01:51 INFO    : Summary of results:
+nsamples: 20859
+ln_noise_evidence:  0.000
+ln_evidence: -180.218 +/-  0.087
+ln_bayes_factor: -180.218 +/-  0.087
+
+01:51 INFO    : Sampling time: 0:11:22.273941
+01:51 INFO    : Summary of results:
+nsamples: 20859
+ln_noise_evidence:  0.000
+ln_evidence: -180.218 +/-  0.087
+ln_bayes_factor: -180.218 +/-  0.087
+
+01:51 INFO    : Writing samples file to /home/hussenot/H0/kilonovae-H0/170817/Bu2025MLP/1AngleradioGWdistance/outdirBNSBu7cores/AT2017gfoBu2025_posterior_samples.dat
