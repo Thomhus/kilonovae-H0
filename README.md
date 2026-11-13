@@ -1,5 +1,6 @@
 ## kilonovae-H0
-KN analyses of AT2017gfo and simulated events, looking at distance posteriors, with the eventual goal of estimating H0 from a sample of kilonovae
+KN analyses of AT2017gfo and simulated events
+(initial project focused on distance posteriors, with the eventual goal of estimating H0 from a sample of kilonovae; expanded to benchmarking parameter estimation on all KN parameters)
 
 # Data for **Benchmarking the expected performance of Bayesian parameter inference on Kilonovae** [arXiv](https://arxiv.org/abs/2505.21392)
 
@@ -41,9 +42,9 @@ See scramble.py for the generation of resampled lightcurves
 
 See the following scripts to reproduce the figures from the article:
 * 170817/ErrorHisto.py --> Figure 1
-* RecoveryPlots.py --> Figs 4, 5, 6, 8, 11, 19*
+* RecoveryPlots.py --> Figs 4, 5, 6, 8, 11, 19
 * InjectionRecovery21plots.py --> Fig 10
-* reanalysis_lightcurve_grid.py --> Figs 12, 13*
+* reanalysis_lightcurve_grid.py --> Figs 12, 13
 * cornerplotcombine.py --> Fig 3, 14
 * 170817/ConstraintBestfitLCs.py --> Figs 15, 16
 * ParameterWiseGains.py --> Figs 20, 21, 22
